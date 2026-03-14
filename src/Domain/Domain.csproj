@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>CleanArchitectureTemplate.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>
